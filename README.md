@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian (@sebhan). I'm a physician located in Stockholm, Sweden.
 - 👀 I’m interested in cancer biology, pharmacology, and computational methods in the life sciences.
-- 🌱 I’m currently learning about proteomics.
+- 🌱 Currently learning about proteomics and mass spectrometry.
 - 📫 Reach me at sebastian.hansen@scilifelab.se
 
 <!---
